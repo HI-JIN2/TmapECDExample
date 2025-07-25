@@ -1,4 +1,4 @@
-# TmapECEExample
+# TmapECDExample
 
 https://tmapapi.tmapmobility.com/main.html#androidEDCSDK/guide/androidGuide.sample1
 
