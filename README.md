@@ -1,4 +1,8 @@
-# Set `local.properties`
+# TmapECEExample
+
+https://tmapapi.tmapmobility.com/main.html#androidEDCSDK/guide/androidGuide.sample1
+
+## Set `local.properties`
 
 ```
 CLIENT_ID=""
